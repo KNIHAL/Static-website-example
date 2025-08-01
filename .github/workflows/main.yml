@@ -21,4 +21,4 @@ jobs:
 
 
     - name: Deploy static site to S3 bucket
-      run: aws s3 sync . s3://agentcraft-github-actions-demo --delete
+      run: aws s3 sync . s3://agentcraft --delete

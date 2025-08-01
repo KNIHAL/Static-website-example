@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 👋 **Welcome to the AgentCraft — AI Agent Development Handbook** 
 ***Your all-in-one guide to building intelligent AI agents from scratch.***
 ***This website for testing the github action***
@@ -144,5 +144,3 @@ This guide is perfect for:
 - Anyone who wants to explore agent-based systems without the overwhelm
 
 ---
-
->>>>>>> 3741fa516272aa33668708b2cee5636649e620f2

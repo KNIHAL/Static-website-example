@@ -51,7 +51,7 @@ Here's a quick overview of what this handbook covers:
 
 ## 🧩 How This Handbook Is Structured
 
-Each section is organized into folders based on topics like `architect/`, `promptS/`, `llms/`, `frameworks/`, and `deployment/`,  `resources`.
+Each section is organized into folders based on topics like [architect/](./content/02_architect/01_overview.md), [promptS/](./content/04_prompts/1_overview.md), [llms/](./content/03_llms/0_overview.md), [frameworks/](./content/05_framework/overview.md), and [deployment/](./content/06_deployment/docker/),  [resources/](./content/07_resources/).
 
 Inside each folder, you’ll find:
 - Bite-sized markdown files focused on one subtopic

@@ -33,7 +33,7 @@ Deploy your website with **zero backend**, **zero servers**, and **100% automati
 
 ## 🌐 Live Demo
 
-🔗 https://knihal.github.io/static-website-example/
+🔗 https://knihal.github.io/Static-website-example/
 
 ---
 
